@@ -1,0 +1,24 @@
+.lang-link__button {
+  /*width: auto;*/
+  font-family: 'Inter';
+  font-size: 18px;
+  line-height: 20px;
+  color: #FFFFFF;
+  background-color: transparent;
+  cursor: pointer;
+  border: none;
+  
+  }
+
+  .lang-link__button:hover {
+    box-shadow: 0 2px #ffffff;
+  }
+
+  
+  @media (min-width: 768px) {
+      .lang-link__button {
+        min-width: 30px;
+        min-height: 28px;
+      }
+  
+  }

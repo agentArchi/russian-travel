@@ -1,0 +1,13 @@
+.footer__row {
+    padding: 0;
+}
+
+@media (min-width: 320px) {
+    .footer__row {
+        padding-right: 18px;
+    }
+
+    .footer__row:last-child {
+        padding-bottom: 0px;
+    }
+}

@@ -1,0 +1,30 @@
+.header {
+  display: flex;
+  min-width: 288px;
+  align-items: center;
+  justify-content: space-between;
+  box-sizing: border-box;
+  padding: 16px 16px 0;
+}
+
+@media (min-width: 768px) {
+  .header {
+    padding: 28px 24px 0;
+    min-width: 720px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .header {
+    padding: 28px 48px 0;
+
+  }
+}
+
+@media (min-width: 1280px) {
+  .header {
+    padding: 28px 48px 0;
+    min-width: 1184px;
+
+  }
+}

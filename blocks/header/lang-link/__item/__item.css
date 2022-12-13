@@ -1,0 +1,8 @@
+.lang-link__item {
+    margin: 0 18px 0 0;
+    min-width: 22px;
+    min-height: 20px;
+}
+.lang-link__item:last-child {
+    margin: 0 0 0 0;
+}
