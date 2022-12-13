@@ -13,11 +13,3 @@
     padding-left: 14px;
     margin: 0 auto;
 }
-
-@media (min-with: 768px) {
-    .cover__subtitle {
-        font-size: 18px;
-        line-height: 22px;
-        text-align: center;
-    }
-}

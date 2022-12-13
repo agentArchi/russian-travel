@@ -29,13 +29,3 @@
 .cover:hover::before {
     opacity: 0.8;
 }
-
-@media (min-with: 768px) {
-    .cover {
-        padding-top: 115px;
-        padding-left: 104px;
-        padding-right: 104px;
-        padding-bottom: 115px;
-        background-position: center center;
-    }
-}

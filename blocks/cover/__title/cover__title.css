@@ -15,12 +15,3 @@
     margin: 0 auto;
 
 }
-
-@media screen and (min-with: 768px) {
-    .cover__title {
-        font-size: 72px;
-        line-height: 76px;
-        text-align: center;
-
-    }
-}
