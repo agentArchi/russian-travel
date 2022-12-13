@@ -14,11 +14,10 @@
     margin: 0 auto;
 }
 
-@media screen and (min-with: 768px) {
+@media (min-with: 768px) {
     .cover__subtitle {
         font-size: 18px;
         line-height: 22px;
         text-align: center;
-
     }
 }
