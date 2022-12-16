@@ -1,0 +1,7 @@
+.footer__list-link {
+    padding-bottom: 32px;
+}
+
+.footer__list-link:nth-last-child(1) {
+    padding-bottom: 0px;
+}
