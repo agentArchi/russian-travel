@@ -4,14 +4,15 @@
     background-size: cover;
     background-position: center center;
     background-color: rgba(200, 100, 0, .5);
-    min-width: 320px;
     min-height: 200px;
     position: relative;
     color: white;
     object-fit: contain;
-    box-sizing: border-box;
-    padding-bottom: 66px;
-    max-width: 100%;
+    margin: 0 auto;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .cover::before {
@@ -28,4 +29,13 @@
 
 .cover:hover::before {
     opacity: 0.8;
+}
+
+@media (min-width: 768px) {
+    .lead__image {
+        max-width: 928px;
+        min-height: 580px;
+        margin: 0 auto;
+        display: flex;
+    }
 }

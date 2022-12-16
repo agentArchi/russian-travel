@@ -1,13 +1,12 @@
 .lang-link__button {
-  /*width: auto;*/
   font-family: 'Inter';
   font-size: 18px;
   line-height: 20px;
   color: #FFFFFF;
   background-color: transparent;
   cursor: pointer;
-  border: none;
-  
+  /*border: none;*/
+  border-bottom: 3px solid transparent;
   }
 
   .lang-link__button:hover {

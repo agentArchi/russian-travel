@@ -1,6 +1,5 @@
 .cover__subtitle {
-    width: 288px;
-    height: 48px;
+    max-width: 288px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
@@ -9,7 +8,6 @@
     text-align: center;
     color: #FFFFFF;
     position: relative;
-    padding-top: 2px;
-    padding-left: 14px;
+    padding: 16px 16px 33px 16px;
     margin: 0 auto;
 }

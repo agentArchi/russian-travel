@@ -1,26 +1,23 @@
 .place__image {
-    min-width: 288px;
+    max-width: 288px;
     display: block;
     width: 100%;
 }
 
 @media (min-width: 768px) {
     .place__image {
-        min-width: 340px;
-        width: 100%;
+        max-width: 340px;
     }
 }
 
 @media (min-width: 1024px) {
     .place__image {
-        min-width: 440px;
-        width: 100%;
+        max-width: 440px;
     }
 }
 
 @media (min-width: 1280px) {
     .place__image {
-        min-width: 460px;
-        width: 100%;
+        max-width: 460px;
     }
 }

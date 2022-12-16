@@ -6,14 +6,12 @@
     text-align: center;
     padding: 16px 16px 40px;
     margin: 0 auto;
-    min-width: 288px;
-    min-height: 40px;
+    max-width: 288px;
 }
 
 @media (min-width: 768px) {
     .lead__subtitle {
-        min-width: 640px;
-        min-height: 72px;
+        max-width: 640px;
         font-size: 30px;
         line-height: 36px;
     }

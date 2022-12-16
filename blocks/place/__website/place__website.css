@@ -1,5 +1,5 @@
 .place__website {
     padding: 0;
-    width: 288px;
+    max-width: 288px;
     align-self: end;
 }
