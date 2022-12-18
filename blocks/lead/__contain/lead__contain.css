@@ -1,0 +1,28 @@
+.lead__contain {
+    margin: 0 auto;
+}
+
+@media (min-width: 768px) {
+    .lead__contain {
+        margin: 0 auto;
+        max-width: 928px;
+    }
+}
+@media (min-width: 1024px) {
+    .lead__contain {
+        margin: 0 auto;
+        max-width: 928px;
+    }
+}
+@media (min-width: 1280px) {
+    .lead__contain {
+        margin: 0 auto 0 148px;
+        max-width: 928px;
+    }
+}
+@media (min-width: 1285px) {
+    .lead__contain {
+        margin: 0 auto;
+        max-width: 928px;
+    }
+}

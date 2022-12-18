@@ -1,3 +1,14 @@
 .places {
     min-width: 320px;
 }
+
+@media (min-width: 1024px) {
+    .places {
+        margin: 0 48px;
+    }
+}
+@media (min-width: 1280px) {
+    .places {
+        margin: 0 148px;
+    }
+}

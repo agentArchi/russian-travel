@@ -18,6 +18,8 @@
       .lang-link__button {
         min-width: 30px;
         min-height: 28px;
+        font-size: 24px;
+        line-height: 28px;
       }
   
   }
