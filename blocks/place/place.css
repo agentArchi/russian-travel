@@ -6,12 +6,8 @@
   padding: 0px 16px;
   grid-gap: 12px 16px;
   box-sizing: border-box;
-  margin: 0 auto;
 }
 
-/*.place > div:not(.place__website) {
-  margin: 20px 0 0 0;
-}*/
 
 @media (min-width: 768px) {
   .place {
