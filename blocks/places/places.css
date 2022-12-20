@@ -2,6 +2,11 @@
     min-width: 320px;
 }
 
+@media (min-width: 768px) {
+    .places {
+        margin: 0 24px;
+    }
+}
 @media (min-width: 1024px) {
     .places {
         margin: 0 48px;

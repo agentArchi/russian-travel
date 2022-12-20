@@ -1,23 +1,21 @@
 .intro__text {
-  max-width: 288px;
-  font-family: 'Inter';
+  font-family: 'Inter', sans-serif;
   font-size: 16px;
   line-height: 26px;
   color: #FFFFFF;
-  padding: 0px 16px 34px;
-  margin: 0 auto;
+  margin: 0;
 }
 
 @media (min-width: 768px) {
   .intro__text {
-    padding: 0px 24px 0px;
+    /*padding: 0px 24px 0px;*/
     max-width: 720px;
   }
 }
 
 @media (min-width: 1024px) {
   .intro__text {
-    padding: 0px 286px 0px 48px;
+    /*padding: 0px 286px 0px 48px;*/
     max-width: 690px;
   }
 }
@@ -25,6 +23,7 @@
 
 @media (min-width: 1280px) {
   .intro__text {
-    padding: 0px 442px 0px 148px;
+    /*padding: 0;*/
+    width: 690px;
   }
 }

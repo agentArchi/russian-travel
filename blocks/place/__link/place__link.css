@@ -11,5 +11,5 @@ font-weight: 400;
 }
 .place__link:hover {
   border-bottom: 1px solid transparent;
-  opacity: .3;
+  opacity: 80%;
 }

@@ -39,7 +39,7 @@
 }
 @media (min-width: 1024px) {
     .cover {
-        margin: 92px auto 0px;
+        margin: 12px auto 0px;
         min-height: 640px;
     }
 }

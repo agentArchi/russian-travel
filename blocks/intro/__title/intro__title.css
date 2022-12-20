@@ -1,16 +1,15 @@
 .intro__title {
-  font-family: 'Inter';
+  font-family: 'Inter', sans-serif;
   font-size: 32px;
   color: #FFFFFF;
-  padding: 64px 56px 36px 16px;
+  padding-bottom: 40px;
   max-width: 288px;
-  margin: 0 auto;
+  margin: 0;
   font-weight: 900;
 }
 
 @media (min-width: 768px) {
   .intro__title {
-    padding: 88px 24px 40px;
     max-width: 720px;
     font-size: 54px;
     line-height: 58px;
@@ -19,7 +18,6 @@
 
 @media (min-width: 1024px) {
   .intro__title {
-    padding: 92px 286px 40px 48px;
     max-width: 690px;
   }
 }
@@ -27,6 +25,6 @@
 
 @media (min-width: 1280px) {
   .intro__title {
-    padding: 92px 442px 40px 148px;
+    width: 984px;
   }
 }

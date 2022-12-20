@@ -1,11 +1,10 @@
 .lang-link__button {
-  font-family: 'Inter';
+  font-family: 'Inter', sans-serif;
   font-size: 18px;
   line-height: 20px;
   color: #FFFFFF;
   background-color: transparent;
   cursor: pointer;
-  /*border: none;*/
   border-bottom: 3px solid transparent;
   }
 

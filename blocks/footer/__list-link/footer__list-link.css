@@ -5,3 +5,8 @@
 .footer__list-link:nth-last-child(1) {
     padding-bottom: 0px;
 }
+
+.footer__list-link:hover {
+    border-bottom: 1px solid transparent;
+    opacity: 80%;
+  }
