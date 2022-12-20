@@ -8,22 +8,14 @@
 
 @media (min-width: 768px) {
   .intro__text {
-    /*padding: 0px 24px 0px;*/
     max-width: 720px;
   }
 }
 
 @media (min-width: 1024px) {
   .intro__text {
-    /*padding: 0px 286px 0px 48px;*/
     max-width: 690px;
   }
 }
 
 
-@media (min-width: 1280px) {
-  .intro__text {
-    /*padding: 0;*/
-    width: 690px;
-  }
-}
