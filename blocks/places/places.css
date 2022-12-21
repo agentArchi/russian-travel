@@ -17,3 +17,9 @@
         margin: 0 148px;
     }
 }
+@media (min-width: 1300px) {
+    .places {
+        display: grid;
+        margin: 0 auto;
+    }
+}
